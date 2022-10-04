@@ -1,0 +1,23 @@
+menu admin
+	1. Dashboard
+	2. lihat laporan (lihat/tanggapi)
+	3. Data
+		a. Data Petugas (C-R-U-D)
+		b. Data Masyarakat (R-D)
+		c. Data Laporan (R)
+		d. Data Tanggapan (R-U-D)
+	4. Generate Laporan
+		a. Laporan Data Registrasi Masyarakat
+		b. Laporan Semua Pengaduan
+		c. Laporan Tanggapan Pengaduan
+		....
+	5. SigOut
+
+	data petugas
+	lihat_petugas.php
+	tambah_petugas.php
+	simpan_petugas.php
+	edit_petugas.php
+	update_petugas.php
+	delete_petugas.php
+
