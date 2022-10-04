@@ -81,8 +81,8 @@
             </p>
             <ul>
               <li><i class="bx bx-check-double"></i> Pengaduan Kerusuhan atau demo di sekitar anda</li>
-              <li><i class="bx bx-check-double"></i> Pengecekan Data KTP atau NIK </li>
-              <li><i class="bx bx-check-double"></i> Melaporkan kehilangan benda seperti kartu Atm dan sebagainya</li>
+              <li><i class="bx bx-check-double"></i> Penyampaian keluhan oleh masyarakat kepada pemerintah atas pelayanan yang tidak sesuai dengan standar pelayanan</li>
+              <li><i class="bx bx-check-double"></i> Kritikan Atau Masukan</li>
             </ul>
             <p>
                E-Complaint Gorontalo adalah web pengaduan yang tepat untuk anda yang tinggal di Gorontalo, dengan E-Complaint Masyarakat Gorontalo akan lebih di permudah dalam melaporkan masalah masalah kehidupan sehari - hari
@@ -106,7 +106,7 @@
               </div>
               <div class="card-body">
                 <h5 class="card-title"><a href="http://localhost/appem2/index.php">Pengaduan Kerusuhan atau demo di sekitar anda</a></h5>
-                <p class="card-text">Lorem ipsum dolor sit amet, consectetur elit, sed do eiusmod tempor ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+                <p class="card-text">Anda dapat mengadukan atau melaporkan kejadian yang tidak mengenakan di daerah anda seperti kerusuhan ato demo </p>
               </div>
             </div>
           </div>
@@ -117,8 +117,8 @@
                 <i class="bx bx-calendar-edit"></i>
               </div>
               <div class="card-body">
-                <h5 class="card-title"><a href="http://localhost/appem2/index.php">Pengecekan Data KTP atau NIK</a></h5>
-                <p class="card-text">Sed ut perspiciatis unde omnis iste natus error sit voluptatem doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. </p>
+                <h5 class="card-title"><a href="http://localhost/appem2/index.php">Penyampaian keluhan oleh masyarakat kepada pemerintah atas pelayanan yang tidak sesuai dengan standar pelayanan</a></h5>
+                <p class="card-text">Anda juga dapat menyampaikan keluhan kepada pemerintahan setempat karena pelayanan yang diberikan tidak sesuai dengan standar yang ditentukan  </p>
               </div>
             </div>
           </div>
@@ -129,8 +129,8 @@
                 <i class="bx bx-landscape"></i>
               </div>
               <div class="card-body">
-                <h5 class="card-title"><a href="http://localhost/appem2/index.php">Melaporkan kehilangan benda seperti kartu Atm dan sebagainya</a></h5>
-                <p class="card-text">Nemo enim ipsam voluptatem quia voluptas sit aut odit aut fugit, sed quia magni dolores eos qui ratione voluptatem sequi nesciunt Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet. </p>
+                <h5 class="card-title"><a href="http://localhost/appem2/index.php">Kritikan Atau Masukan</a></h5>
+                <p class="card-text">Anda dapat mengkritik dan memberikan masukan kepada Pemerintahan setempat </p>
               </div>
             </div>
           </div>
@@ -184,23 +184,7 @@
               </p>
             </div>
           </li>
-           <li>
-            <a data-toggle="collapse" href="#faq5" class="collapsed">Tempus quam pellentesque nec nam aliquam sem et tortor consequat? <i class="bx bx-down-arrow-alt icon-show"></i><i class="bx bx-x icon-close"></i></a>
-            <div id="faq5" class="collapse" data-parent=".faq-list">
-              <p>
-                Molestie a iaculis at erat pellentesque adipiscing commodo. Dignissim suspendisse in est ante in. Nunc vel risus commodo viverra maecenas accumsan. Sit amet nisl suscipit adipiscing bibendum est. Purus gravida quis blandit turpis cursus in
-              </p>
-            </div>
-          </li>
-
-          <li>
-            <a data-toggle="collapse" href="#faq6" class="collapsed">Tortor vitae purus faucibus ornare. Varius vel pharetra vel turpis nunc eget lorem dolor? <i class="bx bx-down-arrow-alt icon-show"></i><i class="bx bx-x icon-close"></i></a>
-            <div id="faq6" class="collapse" data-parent=".faq-list">
-              <p>
-                Laoreet sit amet cursus sit amet dictum sit amet justo. Mauris vitae ultricies leo integer malesuada nunc vel. Tincidunt eget nullam non nisi est sit amet. Turpis nunc eget lorem dolor sed. Ut venenatis tellus in metus vulputate eu scelerisque. Pellentesque diam volutpat commodo sed egestas egestas fringilla phasellus faucibus. Nibh tellus molestie nunc non blandit massa enim nec.
-              </p>
-            </div>
-          </li>
+           
 
         </ul>
 
