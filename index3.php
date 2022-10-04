@@ -55,6 +55,10 @@
                     <hr>
                     
                   </form>
+
+                  <div class="text-center">
+                    <a class="small text-danger" href="index2.php"><h6>Masuk Sebagai User/Masyarakat</h6></a>
+                  </div>
                   
                 </div>
               </div>

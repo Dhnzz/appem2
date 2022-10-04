@@ -42,10 +42,10 @@
                   </div>
                   <form class="user mt-3" method="post" action="cek_login.php">
                     <div class="form-group">
-                      <input type="text" name="username" class="form-control form-control-user"  placeholder="Masukkan Username">
+                      <input type="text" name="username" class="form-control form-control-user"  placeholder="Masukkan Username" required>
                     </div>
                     <div class="form-group">
-                      <input type="password" name="password" class="form-control form-control-user"  placeholder="Password">
+                      <input type="password" name="password" class="form-control form-control-user"  placeholder="Password" required>
                     </div>
                     <div class="form-group">
                       

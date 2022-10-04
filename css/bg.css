@@ -1,6 +1,6 @@
 .bg{
-	background-image: url("../Background/26368.jpg");
-
+	/* background-image: url("../Background/bg-fix.jpg"); */
+  background-color: #fff7f2;
   /* Full height */
   height: 100%;
 
